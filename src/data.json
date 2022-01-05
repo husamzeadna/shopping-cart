@@ -1,0 +1,74 @@
+[
+    {
+        "id":"id1",
+        "title":"product1",
+        "imageUrl":"/images/product1.jfif",
+        "desc":"This is product1",
+        "price":30,
+        "sizes":["S","M"]
+    },
+    {
+        "id":"id2",
+        "title":"product2",
+        "imageUrl":"/images/product2.jpg",
+        "desc":"This is product2",
+        "price":40,
+        "sizes":["XL","L"]
+    },
+    {
+        "id":"id3",
+        "title":"product3",
+        "imageUrl":"/images/product3.jpg",
+        "desc":"This is product3",
+        "price":300,
+        "sizes":["S","L"]
+    },
+    {
+        "id":"id4",
+        "title":"product4",
+        "imageUrl":"/images/product4.jpg",
+        "desc":"This is product4",
+        "price":60,
+        "sizes":["L","M"]
+    },
+    {
+        "id":"id5",
+        "title":"product5",
+        "imageUrl":"/images/product5.jpg",
+        "desc":"This is product5",
+        "price":80,
+        "sizes":["XL","M"]
+    },
+    {
+        "id":"id6",
+        "title":"product6",
+        "imageUrl":"/images/product6.jpg",
+        "desc":"This is product6",
+        "price":90,
+        "sizes":["L","XXL"]
+    },
+    {
+        "id":"id7",
+        "title":"product7",
+        "imageUrl":"/images/product4.jpg",
+        "desc":"This is product7",
+        "price":100,
+        "sizes":["L"]
+    },
+    {
+        "id":"id8",
+        "title":"product8",
+        "imageUrl":"/images/product5.jpg",
+        "desc":"This is product8",
+        "price":130,
+        "sizes":["XS"]
+    },
+    {
+        "id":"id9",
+        "title":"product9",
+        "imageUrl":"/images/product6.jpg",
+        "desc":"This is product9",
+        "price":600,
+        "sizes":["XS","M"]
+    }
+]
